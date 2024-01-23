@@ -1,0 +1,17 @@
+Recipes_FR = {
+	Recipe_Add_Crack_To_Drug_Pipe = "Ajouter du Crack à la Pipe à drogue",
+	Recipe_Add_Crystal_Meth_To_Drug_Pipe = "Ajouter du Cristal de méthamphétamine à la Pipe à drogue",
+	Recipe_Add_Low_Quality_Meth_To_Drug_Pipe = "Ajouter de la Méth de mauvaise qualité à la Pipe à drogue",
+	Recipe_Add_Mediocre_Meth_To_Drug_Pipe = "Ajouter de la Méth médiocre à la Pipe à drogue",
+	Recipe_Make_Baking_Tray_with_Crystal_Meth = "Préparer une Plaque à pâtisserie avec Cristal de méthamphétamine",
+	Recipe_Make_Baking_Tray_with_Low_Quality_Meth = "Préparer une Plaque à pâtisserie avec Méth de mauvaise qualité",
+	Recipe_Make_Baking_Tray_with_Mediocre_Meth = "Préparer une Plaque à pâtisserie avec Méth médiocre",
+	Recipe_Make_Crack = "Préparer du Crack",
+	Recipe_Make_Pot_of_Crystal_Meth = "Préparer un pot de Cristal de méthamphétamine",
+	Recipe_Make_Pot_of_Low_Quality_Meth = "Préparer un pot de Méth de mauvaise qualité",
+	Recipe_Make_Pot_of_Mediocre_Meth = "Préparer un pot de Méth médiocre",
+	Recipe_Open_Cocaine_Brick = "Ouvrir la Brique de cocaïne",
+	Recipe_Pakage_Crystal_Meth = "Emballer le Cristal de méthamphétamine",
+	Recipe_Pakage_Low_Quality_Meth = "Emballer la Méth de mauvaise qualité",
+	Recipe_Pakage_Mediocre_Meth = "Emballer la Méth médiocre",
+}
