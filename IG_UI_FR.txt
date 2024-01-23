@@ -1,0 +1,6 @@
+IGUI_FR = {
+
+    IGUI_CraftCategory_Drugs = "Drogues",
+    IGUI_ItemCat_Drugs = "Drogues",
+    IGUI_ItemCat_Item = "Objet",
+}
