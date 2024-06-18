@@ -19,4 +19,15 @@ ItemName_FR = {
 	ItemName_DrugMod.UncookedCrystalMeth = "Marmite avec Cristal de méthamphétamine non cuisinée",
 	ItemName_DrugMod.UncookedLowQualityMeth = "Marmite avec Méth de mauvaise qualité non cuisinée",
 	ItemName_DrugMod.UncookedMediocreMeth = "Marmite avec Méth médiocre non cuisinée",
+
+	ItemName_DrugMod.Acid = "Acide",
+	ItemName_DrugMod.BagShrooms = "Sac de Champignons",
+	ItemName_DrugMod.Heroin = "Héroïne",
+	ItemName_DrugMod.HeroinNeedle = "Aiguille d'héroïne",
+	ItemName_DrugMod.MethPipe = "Pipe de cristal de méthamphétamine",
+	ItemName_DrugMod.Needle = "Aiguille",
+	ItemName_DrugMod.Oxycodone = "Oxycodone",
+	ItemName_DrugMod.Shrooms = "Champignons",
+	ItemName_DrugMod.Speed = "Speed",
+	ItemName_DrugMod.Xanax = "Xanax",
 }
