@@ -1,0 +1,18 @@
+Tooltip_FR = {
+    Tooltip_Meth = "Vous avez besoin d'une pipe à drogue pour fumer de la méthamphétamine.", 
+    Tooltip_Crack = "Vous avez besoin d'une pipe à drogue pour fumer du crack.", 
+    Tooltip_Heroin = "Vous avez besoin d’une aiguille pour vous injecter de l’héroïne.", 
+    Tooltip_DrugPipe = "Utilisez-la pour fumer de la méthamphétamine et du crack, mais vous avez besoin d'un truc pour l'allumer.", 
+    Tooltip_Needle = "Un moyen de s'injecter de l'héroïne.", 
+    Tooltip_Blockcocaine = "Ouvrez-le pour trouver beaucoup de cocaïne.", 
+    Tooltip_BagShrooms = "Ouvrez-le pour trouver beaucoup de champis.", 
+    Tooltip_MethPipe = "Donnez-moi de la Méth!", 
+    Tooltip_CrackPipe = "J'ai besoin de plus!", 
+    Tooltip_Cocaine = "Renifler ou pas renifler!!", 
+    Tooltip_HeroinNeedle = "Je peux arrêter quand je veux!", 
+    Tooltip_Speed = "Zoom Zoom!", 
+    Tooltip_Xanax = "Dépression de quoi?!", 
+    Tooltip_Oxycodone = "Une bouteille entière de bonheur!", 
+    Tooltip_Acid = "Pitié pas de Bad Trip.", 
+    Tooltip_Shrooms = "Je plane...", 
+}
