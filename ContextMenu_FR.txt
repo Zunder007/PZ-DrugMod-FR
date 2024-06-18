@@ -1,4 +1,8 @@
 ContextMenu_FR = {
 
 	ContextMenu_Snort = "Renifler",
+	ContextMenu_Inject = "Injecter",
+	ContextMenu_Put On Tongue = "Mettre sous la langue",
+	ContextMenu_Take Shrooms = "Prendre des champignons",
+	ContextMenu_Take Pill = "Prendre la pilule",
 }
