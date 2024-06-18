@@ -14,4 +14,7 @@ Recipes_FR = {
 	Recipe_Pakage_Crystal_Meth = "Emballer le Cristal de méthamphétamine",
 	Recipe_Pakage_Low_Quality_Meth = "Emballer la Méth de mauvaise qualité",
 	Recipe_Pakage_Mediocre_Meth = "Emballer la Méth médiocre",
+
+	Recipe_Add_Heroin_To_Needle = "Ajouter de l'héroïne à l'aiguille",
+	Recipe_Open_Bag_Of_Shrooms = "Ouvrir le sac de champignons",
 }
